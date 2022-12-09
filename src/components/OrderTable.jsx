@@ -68,8 +68,8 @@ const OrderTable = () => {
                     <MenuItem color="blue" fontWeight="bold" value="Dine In">
                       Dine In
                     </MenuItem>
-                    <MenuItem color="green" fontWeight="bold" value="Take away">
-                      Take away
+                    <MenuItem color="green" fontWeight="bold" value="Take Away">
+                      Take Away
                     </MenuItem>
                   </MenuList>
                 </Menu>
